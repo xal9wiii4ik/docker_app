@@ -1,2 +1,5 @@
 # Project exclude paths
 /venv/
+/.env.prod.db
+/.env.prod
+/.env.dev
